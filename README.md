@@ -1,0 +1,1 @@
+C:\Program Files\Git\bin\;C:\Program Files\Git\cmd\
